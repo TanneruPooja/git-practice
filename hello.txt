@@ -1,1 +1,2 @@
-This line is from the main branch.
+Merged version: This line combines both branches.
+
